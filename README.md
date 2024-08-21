@@ -1,4 +1,4 @@
-# Horus Eye Detection
+# 👁️ Horus Eye Detection 🩺
 
 A computer vision-based web app for diagnosing various general eye diseases such as glaucoma and cataracts. Users can also communicate with their doctors through the app and schedule medication sessions. <br />
 
